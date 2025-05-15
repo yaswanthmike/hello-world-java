@@ -1,4 +1,4 @@
-@Library("jms@main") _
+@Library("first@main") _
 pushDockerHub(
     repoName: 'hello-world-java'
 )
